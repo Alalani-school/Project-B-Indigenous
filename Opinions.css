@@ -16,7 +16,6 @@ button {
 button:hover {
   background-color: darkblue;
 }
-nav {
-  background-color: blue;
+a {
   color: white;
 }
